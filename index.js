@@ -21,7 +21,6 @@ const cookie_functions = {
     return ''
   },
   deleteCookie(cname) {
-    console.log('delete cookie called')
     cname = cname.toString()
     var d = new Date()
     d.setTime(d.getTime() + -5 * 24 * 60 * 60 * 1000)
