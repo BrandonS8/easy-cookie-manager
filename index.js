@@ -31,4 +31,4 @@ const cookie_functions = {
   }
 }
 
-export default cookie_functions
+module.exports = cookie_functions
