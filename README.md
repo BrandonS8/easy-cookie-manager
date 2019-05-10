@@ -17,7 +17,6 @@ _Cookies.setCookie('myCookieName', 'testvalue', 30)
 // This will return the value of the cookie, which is 'testvalue' in this case
 _Cookies.getCookie('myCookieName')
 
-
 // This will delete the cookie, deletion is done by setting the expiration date to an already passed time
 _Cookies.deleteCookie('myCookieName')
 
