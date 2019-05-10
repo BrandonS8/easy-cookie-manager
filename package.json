@@ -1,0 +1,23 @@
+{
+  "name": "easy-cookie-manager",
+  "version": "1.0.0",
+  "description": "Easily manage cookies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrandonS8/easy-cookie-manager.git"
+  },
+  "keywords": [
+    "cookie",
+    "cookies"
+  ],
+  "author": "Brandon Sears",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrandonS8/easy-cookie-manager/issues"
+  },
+  "homepage": "https://github.com/BrandonS8/easy-cookie-manager#readme"
+}
